@@ -1,5 +1,4 @@
 
-
 create database work;
 use work;
 select 1+1 as result;
